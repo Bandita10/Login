@@ -27,7 +27,7 @@ public class Managerdb
     String usuario = "root";
     
     //Contraseña
-    String password = "EthanBanda09";
+    String password = "Tuculitoesmio";
     
     private Connection getmysqlConnection()
     {
